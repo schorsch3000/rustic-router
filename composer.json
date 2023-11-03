@@ -1,0 +1,14 @@
+{
+    "name": "schorsch3000/rustic-router",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Schorsch3000\\RusticRouter\\": "src/"
+        }
+    },
+    "require": {},
+    "scripts": {
+        "reformat": "prettier -w **/*.php *.php"
+    }
+}
